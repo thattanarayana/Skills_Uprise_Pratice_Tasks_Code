@@ -1,0 +1,110 @@
+*{
+    text-decoration: none;
+}
+
+body{
+    background-color: #f0f2f5;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+#crt-btn{
+  font-weight: bold;
+  color: white;
+  background-color: #36a420;
+  padding: 14px ;
+  padding-left: 40px;
+  border: none;
+  border-radius: 6px;
+  font-size: 16px;
+  cursor: pointer;
+  width: 95%; 
+}
+
+#complete_view{
+   display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  gap: 60px;
+  padding: 0 40px;
+}
+
+#logo_tagline{
+    flex: 1;
+}
+
+#fblogo{
+  width: 300px;
+  max-width: 100%;
+  margin-bottom: 20px;
+}
+
+#tagline{
+font-size: 28px;
+font-weight: normal;
+color: #1c1e21;
+line-height: 1.4;
+max-width: 500px;
+}
+
+#loginsectin {
+  flex: 1;
+  max-width: 400px;
+  background: white;
+  padding: 30px;
+  border-radius: 10px;
+  box-shadow: 0 2px 10px rgba(0,0,0,0.1);
+}
+
+#login_key_forgot input {
+  width: 90%;
+  padding: 10px;
+  margin-bottom: 10px;
+  border: 1px solid #ddd;
+  border-radius: 6px;
+  font-size: 16px;
+}
+
+#login-btn {
+  width: 95%;
+  background-color: #1877f2;
+  color: white;
+  font-weight: bold;
+  font-size: 18px;
+  border: none;
+  border-radius: 6px;
+  cursor: pointer;
+  padding: 14px 0;
+  margin-bottom: 12px;
+}
+
+#fp{
+   color: #1877f2;
+  font-size: 14px;
+  display: block;
+  text-align: center;
+  margin-bottom: 16px;
+}
+
+#hr{
+  border: none;
+  border-top: 1px solid #ccc;
+  margin: 16px 0;
+}
+
+#pagecreation{
+  text-align: center;
+  font-size: 14px;
+  margin-top: 20px;
+}
+
+#pagecreation{
+    text-align: center;
+  font-size: 14px;
+  margin-top: 20px;
+}
+
+#pagecreation a{
+    color: #1c1e21;
+  text-decoration: none;
+}
